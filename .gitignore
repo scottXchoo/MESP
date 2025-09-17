@@ -2,3 +2,5 @@
 /output
 /clustered_datasets
 /figures
+/lightning_logs
+/models
